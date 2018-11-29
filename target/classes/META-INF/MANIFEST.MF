@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-data-jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hecto
+Implementation-Vendor-Id: com.bolsadeideas.sringboot.datajpa.app
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/spring-boot-data-jpa/
+Created-By: Maven Integration for Eclipse
+
